@@ -1,1 +1,3 @@
-
+# Requirements #
+## Introduction ##
+A windscreen wiper or windshield wiper or wiper blade is a device used to remove rain, snow, ice, washer fluid, water from a vehicle's front window.Current car wipers works on the principle of manual switching. The traditional wiper system requires driver's constant attention in adjusting the wiper speed. Traditional windshield wiper speed constantly varies according to time and vehicle’s speed which not only require driver’s attention but also causes a certain level of discomfort to the driver's vision and serves as a source of distraction which increases the risk of accidents.So,to offer comfort to the driver and essentially reduce the risk of accidents, an automatic rain sensing device has become a necessity, as they work to minimize the time of the driver.Automatic rain sensing wiper system detects rain and starts automatically and stops when the rain stops.
