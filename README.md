@@ -1,4 +1,4 @@
-# M3_Wiper_Control_System
+# M3_Wiper Control System #
 # Introduction #
 ![image](https://user-images.githubusercontent.com/86312170/168431306-cab3350a-995d-495f-be47-b392485f3661.png)
 
@@ -7,3 +7,4 @@ The wiper serves to clean the windshield of the car at the front and rear, altho
  https://api.codiga.io/project/33493/score/svg ![image](https://user-images.githubusercontent.com/86312170/168431664-9291864e-0490-481b-97cd-34f02111a129.png)
 
  https://api.codiga.io/project/33493/status/svg ![image](https://user-images.githubusercontent.com/86312170/168431728-722d49ec-e002-4cc3-a566-7ce7943f7a2a.png)
+# Folder Structure #
